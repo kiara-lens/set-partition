@@ -1,0 +1,3 @@
+/home/jorel/CLionProjects/set-partition/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jorel/CLionProjects/set-partition/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jorel/CLionProjects/set-partition/cmake-build-debug/CMakeFiles/setpartition.dir

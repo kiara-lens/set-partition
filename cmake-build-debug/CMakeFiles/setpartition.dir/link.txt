@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/setpartition.dir/main.c.o CMakeFiles/setpartition.dir/sp_item.c.o CMakeFiles/setpartition.dir/sp_set.c.o CMakeFiles/setpartition.dir/sp_partition.c.o CMakeFiles/setpartition.dir/handy_list.c.o  -o setpartition 
